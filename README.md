@@ -7,7 +7,7 @@ Follow the steps to generate documents.
 ```
 $ cd /path/to/<project path>
 ```
-- Run `doxygen -g`. Then you will get a configuration file of doxygen --- `Doxyfile'
+- Run `doxygen -g`. Then you will get a configuration file of doxygen --- `Doxyfile`
 ```
 $ doxygen -g
 ```
